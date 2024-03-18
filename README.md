@@ -30,3 +30,11 @@ Além de servir como um treino em Java, serviu também para distrair minha filha
 - Ações específicas para cada PET
 - Adicionar coelho e outros animais
 - Melhorar o balanceamento das ações, o quanto que ganha e perde ao fazer uma ação
+
+## Baixar e Rodar o Jogo
+
+Para rodar o jogo basta acessar o diretório /dist deste respositório e baixar o arquivo Pets.jar e rodar via terminal (Linux e Mac) ou prompt de comando (Windows) através do comando:
+
+```
+java -jar Pets.jar
+```
